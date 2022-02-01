@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class Kaulins {
+public class kaulins {
 	static void mestKaulinu(int reizes) {
 		int skaitlis;
 		Random rand = new Random();
